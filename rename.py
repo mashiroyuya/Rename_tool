@@ -15,8 +15,4 @@ if ans == 'yes':
                 os.rename(files,dire+'/{0:02d}'.format(i+1)+'.JPG')
                 print dire+'/{0:02d}'.format(i+1)+'.JPG'
 else:
-    print 'renameは行いませんでした.'
-
-
-
-
+    print 'renameを行いませんでした.'
