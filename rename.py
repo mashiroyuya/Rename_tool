@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os,glob
 
-print '必ず手動でバックアップを取ってください: 危険な行為です'
+print '必ず手動でバックアップを取ってくださいネ: 危険な行為です'
 ans = raw_input('このディレクトリ以下のファイルをrenameしますか? (yes/no): ')
 
 if ans == 'yes':
